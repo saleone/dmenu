@@ -10,9 +10,9 @@ static const char *fonts[] = {
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
 
-static const char col_fg[]          = "#555555";
-static const char col_bg[]          = "#fafafa";
-static const char col_hl[]          = "#a54242";
+static const char col_fg[]          = "#fafafa";
+static const char col_bg[]          = "#222222";
+static const char col_hl[]          = "#ff0732";
 
 static const char *colors[SchemeLast][2] = {
 	/*               fg         bg       */
